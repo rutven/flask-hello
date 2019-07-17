@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/sergei/workspace/python/flask-hello/venv/bin/python3",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+}
