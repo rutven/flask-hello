@@ -6,4 +6,6 @@ WORKDIR /app
 
 RUN pip install -r requirements.txt
 
-CMD [ "flask run" ]
+ENTRYPOINT [ "python" ]
+
+CMD [ "app.py" ]
